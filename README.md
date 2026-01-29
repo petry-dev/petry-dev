@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is William Petry de Souza and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is William Petry de Souza and I'm a Full Stack Mid-Level Developer, from Caxias do Sul - Brazil</h2>
 
 ###
 
@@ -17,7 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
 ###
